@@ -1,0 +1,11 @@
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Contracts\bin\Debug\net8.0\Base.Contracts.deps.json
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Contracts\bin\Debug\net8.0\Base.Contracts.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Contracts\bin\Debug\net8.0\Base.Contracts.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Contracts\obj\Debug\net8.0\Base.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Contracts\obj\Debug\net8.0\Base.Contracts.AssemblyInfoInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Contracts\obj\Debug\net8.0\Base.Contracts.AssemblyInfo.cs
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Contracts\obj\Debug\net8.0\Base.Contracts.csproj.CoreCompileInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Contracts\obj\Debug\net8.0\Base.Contracts.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Contracts\obj\Debug\net8.0\refint\Base.Contracts.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Contracts\obj\Debug\net8.0\Base.Contracts.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Contracts\obj\Debug\net8.0\ref\Base.Contracts.dll

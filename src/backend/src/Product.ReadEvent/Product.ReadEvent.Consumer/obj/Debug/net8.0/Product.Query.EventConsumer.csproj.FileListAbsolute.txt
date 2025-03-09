@@ -1,0 +1,17 @@
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query.EventConsumer\bin\Debug\net8.0\Product.Query.EventConsumer.deps.json
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query.EventConsumer\bin\Debug\net8.0\Product.Query.EventConsumer.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query.EventConsumer\bin\Debug\net8.0\Product.Query.EventConsumer.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query.EventConsumer\bin\Debug\net8.0\Base.Contracts.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query.EventConsumer\bin\Debug\net8.0\Product.Contracts.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query.EventConsumer\bin\Debug\net8.0\Base.Contracts.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query.EventConsumer\bin\Debug\net8.0\Product.Contracts.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query.EventConsumer\obj\Debug\net8.0\Product.Query.EventConsumer.csproj.AssemblyReference.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query.EventConsumer\obj\Debug\net8.0\Product.Query.EventConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query.EventConsumer\obj\Debug\net8.0\Product.Query.EventConsumer.AssemblyInfoInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query.EventConsumer\obj\Debug\net8.0\Product.Query.EventConsumer.AssemblyInfo.cs
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query.EventConsumer\obj\Debug\net8.0\Product.Query.EventConsumer.csproj.CoreCompileInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query.EventConsumer\obj\Debug\net8.0\Product..E869187B.Up2Date
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query.EventConsumer\obj\Debug\net8.0\Product.Query.EventConsumer.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query.EventConsumer\obj\Debug\net8.0\refint\Product.Query.EventConsumer.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query.EventConsumer\obj\Debug\net8.0\Product.Query.EventConsumer.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query.EventConsumer\obj\Debug\net8.0\ref\Product.Query.EventConsumer.dll

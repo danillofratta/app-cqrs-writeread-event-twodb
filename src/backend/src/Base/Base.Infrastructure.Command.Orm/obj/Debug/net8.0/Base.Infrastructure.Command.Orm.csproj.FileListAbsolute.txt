@@ -1,0 +1,16 @@
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Command.Orm\bin\Debug\net8.0\Base.Infrastructure.Command.Orm.deps.json
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Command.Orm\bin\Debug\net8.0\Base.Infrastructure.Command.Orm.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Command.Orm\bin\Debug\net8.0\Base.Infrastructure.Command.Orm.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Command.Orm\bin\Debug\net8.0\Base.Domain.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Command.Orm\bin\Debug\net8.0\Shared.Infrasctructure.Orm.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Command.Orm\bin\Debug\net8.0\Base.Domain.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Command.Orm\obj\Debug\net8.0\Base.Infrastructure.Command.Orm.csproj.AssemblyReference.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Command.Orm\obj\Debug\net8.0\Base.Infrastructure.Command.Orm.GeneratedMSBuildEditorConfig.editorconfig
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Command.Orm\obj\Debug\net8.0\Base.Infrastructure.Command.Orm.AssemblyInfoInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Command.Orm\obj\Debug\net8.0\Base.Infrastructure.Command.Orm.AssemblyInfo.cs
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Command.Orm\obj\Debug\net8.0\Base.Infrastructure.Command.Orm.csproj.CoreCompileInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Command.Orm\obj\Debug\net8.0\Base.Inf.4B23642D.Up2Date
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Command.Orm\obj\Debug\net8.0\Base.Infrastructure.Command.Orm.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Command.Orm\obj\Debug\net8.0\refint\Base.Infrastructure.Command.Orm.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Command.Orm\obj\Debug\net8.0\Base.Infrastructure.Command.Orm.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Command.Orm\obj\Debug\net8.0\ref\Base.Infrastructure.Command.Orm.dll

@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MassTransit" Version="8.3.7" />
+    <PackageReference Include="MassTransit.RabbitMQ" Version="8.3.7" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Base\Base.Infrastructure.Messaging.MassTransit\Base.Infrastructure.Messaging.MassTransit.csproj" />
+    <ProjectReference Include="..\..\Base\Base.Infrastructure.Messaging\Base.Infrastructure.Messaging.csproj" />
+    <ProjectReference Include="..\..\Product.Query\Product.Query.Infrastructure.Orm\Product.Query.Infrastructure.Orm.csproj" />
+    <ProjectReference Include="..\Product.ReadEvent.Consumer\Product.ReadEvent.Consumer.csproj" />
+    <ProjectReference Include="..\Product.ReadEvent.Domain\Product.ReadEvent.Domain.csproj" />
+    <ProjectReference Include="..\Product.ReadEvent.Infrastructure\Product.ReadEvent.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

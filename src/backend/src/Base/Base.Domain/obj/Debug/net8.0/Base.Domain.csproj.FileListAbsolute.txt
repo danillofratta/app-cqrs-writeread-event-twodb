@@ -1,0 +1,12 @@
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Domain\bin\Debug\net8.0\Base.Domain.deps.json
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Domain\bin\Debug\net8.0\Base.Domain.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Domain\bin\Debug\net8.0\Base.Domain.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Domain\obj\Debug\net8.0\Base.Domain.csproj.AssemblyReference.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Domain\obj\Debug\net8.0\Base.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Domain\obj\Debug\net8.0\Base.Domain.AssemblyInfoInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Domain\obj\Debug\net8.0\Base.Domain.AssemblyInfo.cs
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Domain\obj\Debug\net8.0\Base.Domain.csproj.CoreCompileInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Domain\obj\Debug\net8.0\Base.Domain.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Domain\obj\Debug\net8.0\refint\Base.Domain.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Domain\obj\Debug\net8.0\Base.Domain.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Domain\obj\Debug\net8.0\ref\Base.Domain.dll

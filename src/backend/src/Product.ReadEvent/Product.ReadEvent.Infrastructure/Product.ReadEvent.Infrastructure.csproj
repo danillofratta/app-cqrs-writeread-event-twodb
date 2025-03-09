@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Base\Base.Infrastructure.Command.Orm\Base.Infrastructure.Command.Orm.csproj" />
+    <ProjectReference Include="..\..\Base\Base.Infrastructure.Query.Orm\Base.Infrastructure.Query.Orm.csproj" />
+    <ProjectReference Include="..\..\Product.Query\Product.Query.Infrastructure.Orm\Product.Query.Infrastructure.Orm.csproj" />
+    <ProjectReference Include="..\Product.ReadEvent.Domain\Product.ReadEvent.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

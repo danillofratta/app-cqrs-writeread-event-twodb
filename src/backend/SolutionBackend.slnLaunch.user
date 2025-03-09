@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "src\\Product.Command\\Product.Command.WebApi\\Product.Command.WebApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\Product.Query\\Product.Query.WebApi\\Product.Query.WebApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\Product.ReadEvent\\Product.ReadEvent.WebApi\\Product.ReadEvent.WebApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

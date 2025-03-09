@@ -1,0 +1,5 @@
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\ProductCommand\ProductCommandDomain\obj\Debug\net8.0\ProductCommandDomain.csproj.AssemblyReference.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\ProductCommand\ProductCommandDomain\obj\Debug\net8.0\ProductCommandDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\ProductCommand\ProductCommandDomain\obj\Debug\net8.0\ProductCommandDomain.AssemblyInfoInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\ProductCommand\ProductCommandDomain\obj\Debug\net8.0\ProductCommandDomain.AssemblyInfo.cs
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\ProductCommand\ProductCommandDomain\obj\Debug\net8.0\ProductCommandDomain.csproj.CoreCompileInputs.cache

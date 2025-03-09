@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3hXWGXphH5axepoYcTv6hEB9fh4ogu+hcP6rcPhGAUg=",
+  "Source": "Product.ReadEvent.WebApi",
+  "BasePath": "_content/Product.ReadEvent.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

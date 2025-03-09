@@ -1,0 +1,16 @@
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Query.Orm\bin\Debug\net8.0\Base.Infrastructure.Query.Orm.deps.json
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Query.Orm\bin\Debug\net8.0\Base.Infrastructure.Query.Orm.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Query.Orm\bin\Debug\net8.0\Base.Infrastructure.Query.Orm.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Query.Orm\bin\Debug\net8.0\Base.Domain.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Query.Orm\bin\Debug\net8.0\Shared.Infrasctructure.Orm.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Query.Orm\bin\Debug\net8.0\Base.Domain.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Query.Orm\obj\Debug\net8.0\Base.Infrastructure.Query.Orm.csproj.AssemblyReference.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Query.Orm\obj\Debug\net8.0\Base.Infrastructure.Query.Orm.GeneratedMSBuildEditorConfig.editorconfig
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Query.Orm\obj\Debug\net8.0\Base.Infrastructure.Query.Orm.AssemblyInfoInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Query.Orm\obj\Debug\net8.0\Base.Infrastructure.Query.Orm.AssemblyInfo.cs
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Query.Orm\obj\Debug\net8.0\Base.Infrastructure.Query.Orm.csproj.CoreCompileInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Query.Orm\obj\Debug\net8.0\Base.Inf.F351B98E.Up2Date
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Query.Orm\obj\Debug\net8.0\Base.Infrastructure.Query.Orm.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Query.Orm\obj\Debug\net8.0\refint\Base.Infrastructure.Query.Orm.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Query.Orm\obj\Debug\net8.0\Base.Infrastructure.Query.Orm.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\Base.Infrastructure.Query.Orm\obj\Debug\net8.0\ref\Base.Infrastructure.Query.Orm.dll

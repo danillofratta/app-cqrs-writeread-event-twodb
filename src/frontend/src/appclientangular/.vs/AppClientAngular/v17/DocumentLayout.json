@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8208E0-C760-4995-A2A3-57742107244F}|AppClientAngular.esproj|c:\\1 arquivos\\ti\\0 dev\\github\\public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\environments\\environment.development.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{CD8208E0-C760-4995-A2A3-57742107244F}|AppClientAngular.esproj|solutionrelative:src\\environments\\environment.development.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8208E0-C760-4995-A2A3-57742107244F}|AppClientAngular.esproj|c:\\1 arquivos\\ti\\0 dev\\github\\public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\domain\\api\\api.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{CD8208E0-C760-4995-A2A3-57742107244F}|AppClientAngular.esproj|solutionrelative:src\\domain\\api\\api.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8208E0-C760-4995-A2A3-57742107244F}|AppClientAngular.esproj|c:\\1 arquivos\\ti\\0 dev\\github\\public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\domain\\api\\productapi.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{CD8208E0-C760-4995-A2A3-57742107244F}|AppClientAngular.esproj|solutionrelative:src\\domain\\api\\productapi.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8208E0-C760-4995-A2A3-57742107244F}|AppClientAngular.esproj|c:\\1 arquivos\\ti\\0 dev\\github\\public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\app\\pages\\dashboard\\product\\product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{CD8208E0-C760-4995-A2A3-57742107244F}|AppClientAngular.esproj|solutionrelative:src\\app\\pages\\dashboard\\product\\product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8208E0-C760-4995-A2A3-57742107244F}|AppClientAngular.esproj|c:\\1 arquivos\\ti\\0 dev\\github\\public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\domain\\dto\\apibase\\apiresponsedto.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{CD8208E0-C760-4995-A2A3-57742107244F}|AppClientAngular.esproj|solutionrelative:src\\domain\\dto\\apibase\\apiresponsedto.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8208E0-C760-4995-A2A3-57742107244F}|AppClientAngular.esproj|c:\\1 arquivos\\ti\\0 dev\\github\\public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\app\\pages\\dashboard\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD8208E0-C760-4995-A2A3-57742107244F}|AppClientAngular.esproj|solutionrelative:src\\app\\pages\\dashboard\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8208E0-C760-4995-A2A3-57742107244F}|AppClientAngular.esproj|c:\\1 arquivos\\ti\\0 dev\\github\\public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\domain\\api\\productsignalrsevice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{CD8208E0-C760-4995-A2A3-57742107244F}|AppClientAngular.esproj|solutionrelative:src\\domain\\api\\productsignalrsevice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "product.component.ts",
+              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\app\\pages\\dashboard\\product\\product.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\pages\\dashboard\\product\\product.component.ts",
+              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\app\\pages\\dashboard\\product\\product.component.ts",
+              "RelativeToolTip": "src\\app\\pages\\dashboard\\product\\product.component.ts",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-09T15:47:18.02Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductApi.ts",
+              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\domain\\api\\ProductApi.ts",
+              "RelativeDocumentMoniker": "src\\domain\\api\\ProductApi.ts",
+              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\domain\\api\\ProductApi.ts",
+              "RelativeToolTip": "src\\domain\\api\\ProductApi.ts",
+              "ViewState": "AgIAABAAAAAAAAAAAAAewBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-09T15:48:32.72Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "product.component.html",
+              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\app\\pages\\dashboard\\product\\product.component.html",
+              "RelativeDocumentMoniker": "src\\app\\pages\\dashboard\\product\\product.component.html",
+              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\app\\pages\\dashboard\\product\\product.component.html",
+              "RelativeToolTip": "src\\app\\pages\\dashboard\\product\\product.component.html",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-09T16:09:24.418Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "environment.development.ts",
+              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\environments\\environment.development.ts",
+              "RelativeDocumentMoniker": "src\\environments\\environment.development.ts",
+              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\environments\\environment.development.ts",
+              "RelativeToolTip": "src\\environments\\environment.development.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-09T18:12:25.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "API.ts",
+              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\domain\\api\\API.ts",
+              "RelativeDocumentMoniker": "src\\domain\\api\\API.ts",
+              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\domain\\api\\API.ts",
+              "RelativeToolTip": "src\\domain\\api\\API.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-09T18:11:42.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiResponseDto.ts",
+              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\domain\\dto\\apibase\\ApiResponseDto.ts",
+              "RelativeDocumentMoniker": "src\\domain\\dto\\apibase\\ApiResponseDto.ts",
+              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\domain\\dto\\apibase\\ApiResponseDto.ts",
+              "RelativeToolTip": "src\\domain\\dto\\apibase\\ApiResponseDto.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-09T16:21:36.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductSignalRSevice.ts",
+              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\domain\\api\\ProductSignalRSevice.ts",
+              "RelativeDocumentMoniker": "src\\domain\\api\\ProductSignalRSevice.ts",
+              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\app-cqrs-3-databases\\src\\frontend\\src\\appclientangular\\src\\domain\\api\\ProductSignalRSevice.ts",
+              "RelativeToolTip": "src\\domain\\api\\ProductSignalRSevice.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-09T16:17:02.929Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

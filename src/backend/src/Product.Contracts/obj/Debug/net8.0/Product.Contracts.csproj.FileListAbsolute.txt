@@ -1,0 +1,15 @@
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Contracts\bin\Debug\net8.0\Product.Contracts.deps.json
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Contracts\bin\Debug\net8.0\Product.Contracts.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Contracts\bin\Debug\net8.0\Product.Contracts.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Contracts\bin\Debug\net8.0\Base.Contracts.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Contracts\bin\Debug\net8.0\Base.Contracts.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Contracts\obj\Debug\net8.0\Product.Contracts.csproj.AssemblyReference.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Contracts\obj\Debug\net8.0\Product.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Contracts\obj\Debug\net8.0\Product.Contracts.AssemblyInfoInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Contracts\obj\Debug\net8.0\Product.Contracts.AssemblyInfo.cs
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Contracts\obj\Debug\net8.0\Product.Contracts.csproj.CoreCompileInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Contracts\obj\Debug\net8.0\Product..B5FDEB42.Up2Date
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Contracts\obj\Debug\net8.0\Product.Contracts.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Contracts\obj\Debug\net8.0\refint\Product.Contracts.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Contracts\obj\Debug\net8.0\Product.Contracts.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Contracts\obj\Debug\net8.0\ref\Product.Contracts.dll

@@ -1,0 +1,17 @@
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.ReadEvent\Product.ReadEvent.Domain\bin\Debug\net8.0\Product.ReadEvent.Domain.deps.json
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.ReadEvent\Product.ReadEvent.Domain\bin\Debug\net8.0\Product.ReadEvent.Domain.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.ReadEvent\Product.ReadEvent.Domain\bin\Debug\net8.0\Product.ReadEvent.Domain.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.ReadEvent\Product.ReadEvent.Domain\bin\Debug\net8.0\Base.Domain.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.ReadEvent\Product.ReadEvent.Domain\bin\Debug\net8.0\Product.Query.Domain.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.ReadEvent\Product.ReadEvent.Domain\bin\Debug\net8.0\Base.Domain.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.ReadEvent\Product.ReadEvent.Domain\bin\Debug\net8.0\Product.Query.Domain.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.ReadEvent\Product.ReadEvent.Domain\obj\Debug\net8.0\Product.ReadEvent.Domain.csproj.AssemblyReference.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.ReadEvent\Product.ReadEvent.Domain\obj\Debug\net8.0\Product.ReadEvent.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.ReadEvent\Product.ReadEvent.Domain\obj\Debug\net8.0\Product.ReadEvent.Domain.AssemblyInfoInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.ReadEvent\Product.ReadEvent.Domain\obj\Debug\net8.0\Product.ReadEvent.Domain.AssemblyInfo.cs
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.ReadEvent\Product.ReadEvent.Domain\obj\Debug\net8.0\Product.ReadEvent.Domain.csproj.CoreCompileInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.ReadEvent\Product.ReadEvent.Domain\obj\Debug\net8.0\Product..62E54819.Up2Date
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.ReadEvent\Product.ReadEvent.Domain\obj\Debug\net8.0\Product.ReadEvent.Domain.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.ReadEvent\Product.ReadEvent.Domain\obj\Debug\net8.0\refint\Product.ReadEvent.Domain.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.ReadEvent\Product.ReadEvent.Domain\obj\Debug\net8.0\Product.ReadEvent.Domain.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.ReadEvent\Product.ReadEvent.Domain\obj\Debug\net8.0\ref\Product.ReadEvent.Domain.dll

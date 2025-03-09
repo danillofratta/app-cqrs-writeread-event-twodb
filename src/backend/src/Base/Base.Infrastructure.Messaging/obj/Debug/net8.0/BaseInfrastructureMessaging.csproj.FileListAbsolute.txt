@@ -1,0 +1,12 @@
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\BaseInfrastructureMessaging\bin\Debug\net8.0\BaseInfrastructureMessaging.deps.json
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\BaseInfrastructureMessaging\bin\Debug\net8.0\BaseInfrastructureMessaging.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\BaseInfrastructureMessaging\bin\Debug\net8.0\BaseInfrastructureMessaging.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\BaseInfrastructureMessaging\obj\Debug\net8.0\BaseInfrastructureMessaging.csproj.AssemblyReference.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\BaseInfrastructureMessaging\obj\Debug\net8.0\BaseInfrastructureMessaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\BaseInfrastructureMessaging\obj\Debug\net8.0\BaseInfrastructureMessaging.AssemblyInfoInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\BaseInfrastructureMessaging\obj\Debug\net8.0\BaseInfrastructureMessaging.AssemblyInfo.cs
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\BaseInfrastructureMessaging\obj\Debug\net8.0\BaseInfrastructureMessaging.csproj.CoreCompileInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\BaseInfrastructureMessaging\obj\Debug\net8.0\BaseInfrastructureMessaging.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\BaseInfrastructureMessaging\obj\Debug\net8.0\refint\BaseInfrastructureMessaging.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\BaseInfrastructureMessaging\obj\Debug\net8.0\BaseInfrastructureMessaging.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Base\BaseInfrastructureMessaging\obj\Debug\net8.0\ref\BaseInfrastructureMessaging.dll

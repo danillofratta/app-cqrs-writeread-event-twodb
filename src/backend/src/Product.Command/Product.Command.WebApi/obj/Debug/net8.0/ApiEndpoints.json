@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "ApiStock.Controller.ProductCommandController",
+    "Method": "Post",
+    "RelativePath": "api/v1/ProductCommand",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Product.Command.Application.Create.CreateProductCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiStock.Controller.ProductCommandController",
+    "Method": "Put",
+    "RelativePath": "api/v1/ProductCommand",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Product.Command.Application.Modify.ModifyProductCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiStock.Controller.ProductCommandController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/ProductCommand/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

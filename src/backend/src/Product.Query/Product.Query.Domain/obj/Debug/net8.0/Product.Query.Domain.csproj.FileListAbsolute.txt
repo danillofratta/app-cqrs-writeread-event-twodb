@@ -1,0 +1,15 @@
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query\Product.Query.Domain\bin\Debug\net8.0\Product.Query.Domain.deps.json
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query\Product.Query.Domain\bin\Debug\net8.0\Product.Query.Domain.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query\Product.Query.Domain\bin\Debug\net8.0\Product.Query.Domain.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query\Product.Query.Domain\bin\Debug\net8.0\Base.Domain.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query\Product.Query.Domain\bin\Debug\net8.0\Base.Domain.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query\Product.Query.Domain\obj\Debug\net8.0\Product.Query.Domain.csproj.AssemblyReference.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query\Product.Query.Domain\obj\Debug\net8.0\Product.Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query\Product.Query.Domain\obj\Debug\net8.0\Product.Query.Domain.AssemblyInfoInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query\Product.Query.Domain\obj\Debug\net8.0\Product.Query.Domain.AssemblyInfo.cs
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query\Product.Query.Domain\obj\Debug\net8.0\Product.Query.Domain.csproj.CoreCompileInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query\Product.Query.Domain\obj\Debug\net8.0\Product..C965F246.Up2Date
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query\Product.Query.Domain\obj\Debug\net8.0\Product.Query.Domain.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query\Product.Query.Domain\obj\Debug\net8.0\refint\Product.Query.Domain.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query\Product.Query.Domain\obj\Debug\net8.0\Product.Query.Domain.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\Public\app-cqrs-3-databases\src\backend\src\Product.Query\Product.Query.Domain\obj\Debug\net8.0\ref\Product.Query.Domain.dll

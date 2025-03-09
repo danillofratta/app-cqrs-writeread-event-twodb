@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tYNDH5tjxqWBZvrmlNYH53s5jCN8eLgmEocx2RTUYx4=",
+  "Source": "Product.Query.WebApi",
+  "BasePath": "_content/Product.Query.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
