@@ -1,25 +1,27 @@
-# Desafio
+# Challenge
 
-Criar projeto usando os conceitos do CQRS com banco de dados write e read.  
-Foi utilizado Event para realizar a sincronização entre o banco de dados write e read.  
-Foi criado uma arquiteura básica pensando em escalabilidade.  
-Foi aplicado conceito SOLID para separar as camadas e responsabilidades.  
+Create project using concepts CQRS with separate write and read database
+Event was used to perform synchronization between the write and read database. 
+Was created a base arquitecture thinking in scalability and maintenance
+Was aplied solid principals to separate layes and responsabilities
 
-# Objetivo
+# Objective
 
-Este projeto tem o objetivo de demonstrar a implementação das seguintes tecnologias e padrões: 
-- API (.net) 
-- Patterns: DDD, EDD, CQRS
-- MassTransit (rabbitmq)
+This project aims to demonstrate the implementation of the following technologies and standards:
+- API (.net)
+- Standards: DDD, EDA, CQRS
+- MassTransit (rabbit mq)
+- SinalR
 - Fluent
-- Mediatr
+- Mediator
 - Entity
 - Angular
+- BlazorWasm
 - Postgres
 
-## Projeto
+## Projetct
 
-A arquitetura segue o padrão CQRS com Event Sourcing, onde:
+The architecture follows the pattern CQRS with DDD and Event-Driven, where:
 
 Write side (Product.Write) handles commands (create, update, delete).
 
@@ -31,6 +33,6 @@ Shared contracts (SharedContracts) define common DTOs and interfaces.
 
 Base projects (Base.*) provide reusable infrastructure and domain logic.
 
-## Comunicação 
+## Communication 
 
 ![alt text](comunicacao.png)
